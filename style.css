@@ -1,0 +1,6 @@
+p{
+ visibility: hidden;
+}
+#pic:hover p{
+    visibility: hidden;
+}
